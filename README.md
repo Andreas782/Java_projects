@@ -1,3 +1,2 @@
 # Uni_projects
-Projects I have completed during university,
-Assignments includes projects done in Java and Python
+Java projects I have completed during university, with more to be commited as I continue in University
